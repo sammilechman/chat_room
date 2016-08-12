@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "simple chat room application using socket.io",
   "main": "index.js",
+  "engines": {
+    "node": "6.3.1"
+  },
   "scripts": {
     "test": "test",
     "start": "node index.js"
